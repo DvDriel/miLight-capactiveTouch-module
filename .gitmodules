@@ -1,0 +1,3 @@
+[submodule "lib/lib/Milight"]
+	path = lib/lib/Milight
+	url = https://github.com/JulesHuisman/Milight
