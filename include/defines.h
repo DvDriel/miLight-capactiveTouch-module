@@ -1,3 +1,6 @@
+#define SENSORS         4
+#define THRESHHOLD      20
+
 #define TOUCH_CENTER    14
 #define TOUCH_RING1     27
 #define TOUCH_RING2     33
